@@ -1,0 +1,297 @@
+@media only screen and (max-width: 2560px){
+    .header-content p{
+        font-size: 250%;
+    }
+
+    .header-content h1{
+        font-size: 500%;
+    }
+
+    .sec_head{
+        margin-top: 30%;
+        font-size: 500%;
+    }
+
+    .sec_text{
+        font-size: 200%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+
+
+@media only screen and (max-width: 1440px){
+    .header-content {
+        position: absolute;
+        margin-top: -25%;
+    }
+
+    .header-content h1{
+        font-size: 180%;
+    }
+
+    .header-content p {
+        font-size: 120%;
+    }
+
+    .sec_head{
+        font-size: 200%;
+        margin-top: 15%;
+    }
+
+    .sec_text{
+        font-size: 120%;
+        margin: 3% 18% 0 18%;
+    }
+
+    .testimonial-card{
+        width: 20rem;
+    }
+
+    .btn-footer:link,
+    .btn-footer:visited {
+        margin-left: 30%;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 1024px){
+    .header-content{
+        margin-top: -30%;
+    }
+
+    .header-content h1{
+        font-size: 180%;
+    }
+
+    .header-content p{
+        font-size: 110%;
+    }
+
+    .btn-main:link,
+    .btn-main:hover{
+        font-size: 100%;
+    }
+
+    .sec_head{
+        font-size: 200%;
+        margin-top: 20%;
+    }
+
+    .sec_text{
+        font-size: 120%;
+        margin: 3% 18% 0 18%;
+    }
+
+    .free_sec{
+        height: 315px;
+    }
+
+    .testimonial-card{
+        width: 18rem;
+    }
+
+    .free_sec{
+        margin-top: 80%;
+        height: 270px;
+    }
+
+    .prem_sec{
+        margin-top: 53%;
+        height: 350px;
+    }
+
+    .gold_sec{
+        margin-top: 30%;
+        height: 415px;
+    }
+}
+
+
+
+@media only screen and (max-width: 768px){
+    .header-content{
+        margin-top: -40%;
+    }
+
+    .header-content p{
+        font-size: 100%;
+    }
+
+    .sec_head{
+        font-size: 180%;
+    }
+
+    .sec_text{
+        font-size: 100%;
+    }
+
+    .testimonial-card{
+        width: 13rem;
+    }
+
+    .feat_detail_text {
+        font-size: 90%;
+    }
+
+    .head_margin{
+        font-size: 150%;
+    }
+
+    .sec_margin{
+        font-size: 80%;
+    }
+
+    .btn-margin {
+        margin: 1% 0 2% 40%;
+    }
+
+    .image {
+        width: 150%;
+        height: 90%;
+    }
+
+    .steps_list {
+        margin-top: 0;
+        margin-left: 10%;
+    }
+
+    .inline_text {
+        font-weight: 400;
+        font-size: 100%;
+    }
+
+    .steps_text {
+        font-size: 75%;
+        margin-left: 10%;
+        margin-top: -2%;
+        line-height: 15px;
+    }
+
+    .free_sec{
+        margin-top: 85%;
+        height: 300px;
+    }
+
+    .prem_sec{
+        margin-top: 28%;
+        height: 420px;
+    }
+
+    .gold_sec{
+        margin-top: -15%;
+        height: 510px;
+    }
+}
+
+@media only screen and (max-width: 425px){
+    .header-content{
+        margin-top: -90%;
+    }
+
+    .header-content h1{
+        font-size: 160%;
+        margin-right: -40%;
+    }
+
+    .header-content p{
+        font-size: 100%;
+        margin-right: -60%;
+    }
+
+    .sec_head{
+        font-size: 180%;
+        margin-top: 50%
+    }
+
+    .sec_text{
+        font-size: 90%;
+        margin: 3% 0 0 0;
+    }
+
+    .feat_details{
+        margin-top: 15%;
+    }
+
+    .sec_margin {
+        margin: 1% 0 0 0;
+        font-size: 90%;
+    }
+
+    .btn-margin {
+        margin: 1% 0 2% 35%;
+    }
+
+    .image {
+        width: 100%;
+        height: 100%;
+    }
+
+    .steps_list {
+        margin-top: 5%;
+        margin-left: 3%;
+        margin-right: 5%;
+    }
+
+    .steps_text {
+        font-size: 90%;
+        margin-left: 8%;
+        line-height: 20px;
+    }
+
+    .free_sec{
+        margin-top: 0;
+        height: 270px;
+    }
+
+    .prem_sec{
+        margin-top: 5%;
+        height: 350px;
+        width: 100%;
+    }
+
+    .gold_sec{
+        margin-top: 5%;
+        width: 100%;
+        height: 390px;
+    }
+
+    .testimon_head{
+        margin-top: 20%;
+    }
+
+    .testimonial-card{
+        margin-top: 3%;
+        width: 18rem;
+        margin-left: 13%;
+    }
+
+    .contact_form{
+        padding-left: 5%;
+    }
+
+    .msg_form{
+        padding-left: 5%;
+    }
+
+    #textarea{
+        width: 90%;
+    }
+
+    .btn-footer:link,
+    .btn-footer:visited{
+        margin-left: 8%;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    .testimonial-card{
+        margin-left: 9%;
+    }
+}
+
+
+
